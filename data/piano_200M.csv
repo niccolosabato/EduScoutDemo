@@ -1,0 +1,314 @@
+lga_id,lga,state,zone,intervento,nome,costo,eff_pp,bambini,ratio,bambini_eff,ordine
+59680162B20432910054227,Goronyo,Sokoto,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,170528.0,4.05,431.32,0.0,211.35,3
+59680162B95103667512911,Kebbe,Sokoto,North West,wash,Servizi igienici femminili separati + acqua,329925.0,3.64,800.57,0.0,560.4,2
+59680162B87534880716336,Gashaka,Taraba,North East,almajiri,Integrazione scuola coranica-curriculum formale,413304.0,2.91,1003.26,0.0,702.29,2
+59680162B51570410917379,Garko,Kano,North West,wash,Servizi igienici femminili separati + acqua,1302465.0,3.64,3163.21,0.0,2214.25,2
+59680162B34961354684930,Maiyama,Kebbi,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,334928.0,3.89,815.04,0.0,570.53,2
+59680162B7149387462115,Sabon Gari,Kaduna,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,359888.0,3.9,876.26,0.0,613.38,2
+59680162B85415328791745,Batsari,Katsina,North West,wash,Servizi igienici femminili separati + acqua,527100.0,3.65,1283.81,0.0,898.67,2
+59680162B11671066128606,Bogoro,Bauchi,North East,wash,Servizi igienici femminili separati + acqua,477780.0,3.67,1168.78,0.0,818.14,2
+59680162B24502748844916,Bakura,Zamfara,North West,wash,Servizi igienici femminili separati + acqua,280755.0,3.67,687.05,0.0,480.93,2
+59680162B98184498564097,Nassarawa,Kano,North West,wash,Servizi igienici femminili separati + acqua,441165.0,3.67,1079.97,0.0,755.98,2
+59680162B63684780260143,Koko-Besse,Kebbi,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,828592.0,3.92,2031.83,0.0,1422.28,2
+59680162B52281011363885,Gada,Sokoto,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,634784.0,3.93,1557.5,0.0,1090.25,2
+59680162B14319741144045,Miga,Jigawa,North West,wash,Servizi igienici femminili separati + acqua,3156030.0,3.7,7786.74,0.0,5450.72,2
+59680162B44120553871969,Sule Tankarkar,Jigawa,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,1768928.0,3.95,4364.6,0.0,3055.22,2
+59680162B52658055469559,Malam Madori,Jigawa,North West,wash,Servizi igienici femminili separati + acqua,666855.0,3.71,1650.06,0.0,1155.04,2
+59680162B24430291126178,Dawakin Kudu,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,343452.0,2.97,850.66,0.0,595.46,2
+59680162B7876035432306,Shanono,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,586596.0,2.98,1457.88,0.0,1020.52,2
+59680162B18672795330723,Askira Uba,Borno,North East,almajiri,Integrazione scuola coranica-curriculum formale,713772.0,2.99,1776.45,0.0,1243.51,2
+59680162B53174064204838,Rogo,Kano,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,1445008.0,3.98,3598.36,0.0,2518.85,2
+59680162B12426298681132,Tsafe,Zamfara,North West,wash,Servizi igienici femminili separati + acqua,1570545.0,3.74,3920.04,0.0,2744.03,2
+59680162B13498430232382,Jega,Kebbi,North West,wash,Servizi igienici femminili separati + acqua,574635.0,3.76,1438.95,0.0,1007.27,2
+59680162B48034518845808,Sakaba,Kebbi,North West,wash,Servizi igienici femminili separati + acqua,1776330.0,3.77,4462.72,0.0,3123.9,2
+59680162B74336355497846,Biriniwa,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,227004.0,3.02,570.71,0.0,399.5,2
+59680162B65118596491840,Hawul,Borno,North East,almajiri,Integrazione scuola coranica-curriculum formale,189816.0,3.03,479.81,0.0,335.87,2
+59680162B87154562016330,Rimi,Katsina,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,410016.0,4.05,1037.64,0.0,726.35,2
+59680162B7305913438202,Gwadabawa,Sokoto,North West,wash,Servizi igienici femminili separati + acqua,913260.0,3.81,2317.76,0.0,1622.43,2
+59680162B91454305469147,Zango,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,766452.0,3.05,1950.37,0.0,1365.26,2
+59680162B85493721249292,Shinkafi,Zamfara,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,835904.0,4.07,2128.57,0.0,1490.0,2
+59680162B12953009585437,Babura,Jigawa,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,281120.0,4.08,716.18,0.0,501.32,2
+59680162B60875368726655,Sanga,Kaduna,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,370560.0,4.09,946.43,0.0,662.5,2
+59680162B90037113183568,Gujba,Yobe,North East,almajiri,Integrazione scuola coranica-curriculum formale,443220.0,3.07,1134.96,0.0,794.47,2
+59680162B43366957039329,Gwaram,Jigawa,North West,cct,Trasferimenti monetari condizionati,2681070.0,8.73,6887.25,0.0,4821.08,2
+59680162B97880726687240,Kumbotso,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,305712.0,3.12,795.93,0.0,557.15,2
+59680162B24316958669382,Fagge,Kano,North West,cct,Trasferimenti monetari condizionati,693464.0,8.86,1807.93,0.0,1265.55,2
+59680162B77220990792423,Makarfi,Kaduna,North West,wash,Servizi igienici femminili separati + acqua,408345.0,3.94,1071.46,0.0,750.02,2
+59680162B46553103488347,Rimin Gado,Kano,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,926768.0,4.22,2442.64,0.0,1709.85,2
+59680162B40051654285197,Yorro,Taraba,North East,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,369856.0,4.25,983.31,0.0,688.32,2
+59680162B60349541451220,Dutsi,Katsina,North West,wash,Servizi igienici femminili separati + acqua,1057425.0,4.0,2819.33,0.0,1973.53,2
+59680162B13073760931893,Gombi,Adamawa,North East,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,246960.0,4.34,669.95,0.0,468.96,2
+59680162B31064170938287,Kaugama,Jigawa,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,1712224.0,4.36,4661.83,0.0,3263.28,2
+59680162B96995039930644,Dange Shuni,Sokoto,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,1301952.0,4.37,3553.76,0.0,2487.63,2
+59680162B63355484795141,Jaba,Kaduna,North West,wash,Servizi igienici femminili separati + acqua,555060.0,4.11,1519.72,0.0,1063.81,2
+59680162B86414227144381,Buji,Jigawa,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,814096.0,4.41,2243.73,0.0,1570.61,2
+59680162B62375507242594,Kura,Kano,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,1009088.0,4.42,2785.81,0.0,1950.06,2
+59680162B20432910054227,Goronyo,Sokoto,North West,wash,Servizi igienici femminili separati + acqua,159870.0,4.14,441.56,0.0,309.09,2
+59680162B13157392837231,Karim Lamido,Taraba,North East,wash,Servizi igienici femminili separati + acqua,697485.0,4.15,1929.5,0.0,1350.65,2
+59680162B89355923746110,Abadam,Borno,North East,wash,Servizi igienici femminili separati + acqua,514785.0,4.16,1426.1,0.0,998.27,2
+59680162B41504820717654,Roni,Jigawa,North West,wash,Servizi igienici femminili separati + acqua,549360.0,4.16,1523.27,0.0,1066.29,2
+59680162B19433829654146,Mashi,Katsina,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,558592.0,4.49,1568.94,0.0,1098.26,2
+59680162B91492845849591,Sokoto North,Sokoto,North West,wash,Servizi igienici femminili separati + acqua,323055.0,4.24,912.8,0.0,638.96,2
+59680162B54666922464494,Sandamu,Katsina,North West,wash,Servizi igienici femminili separati + acqua,270915.0,4.24,766.03,0.0,536.22,2
+59680162B10083289652159,Kafur,Katsina,North West,wash,Servizi igienici femminili separati + acqua,931035.0,4.24,2633.09,0.0,1843.17,2
+59680162B88365177272018,Tsanyawa,Kano,North West,wash,Servizi igienici femminili separati + acqua,355005.0,4.25,1005.28,0.0,703.7,2
+59680162B93375949891062,Dan Musa,Katsina,North West,wash,Servizi igienici femminili separati + acqua,990630.0,4.27,2819.99,0.0,1973.99,2
+59680162B83966420631158,Guyuk,Adamawa,North East,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,724256.0,4.56,2062.09,0.0,1443.46,2
+59680162B97642938083661,Dawakin Tofa,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,324408.0,3.42,925.22,0.0,647.65,2
+59680162B42687104490462,Danja,Katsina,North West,wash,Servizi igienici femminili separati + acqua,841635.0,4.32,2426.68,0.0,1698.67,2
+59680162B43671986122418,Gudu,Sokoto,North West,wash,Servizi igienici femminili separati + acqua,1163925.0,4.36,3382.19,0.0,2367.53,2
+59680162B84612216171504,Hong,Adamawa,North East,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,159648.0,4.7,469.1,0.0,328.37,2
+59680162B75348496545912,Bakori,Katsina,North West,wash,Servizi igienici femminili separati + acqua,619845.0,4.5,1857.61,0.0,1300.33,2
+59680162B51390103580898,Minjibir,Kano,North West,wash,Servizi igienici femminili separati + acqua,416685.0,4.55,1263.08,0.0,884.16,2
+59680162B47779539071975,Yauri,Kebbi,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,598464.0,5.0,1870.2,0.0,1309.14,2
+59680162B20372712773645,Oturkpo,Benue,North Central,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,788704.0,3.72,1832.39,0.0,1832.39,1
+59680162B20254719160886,Sabuwa,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,114492.0,2.85,272.01,0.0,272.01,1
+59680162B66631777088899,Isa,Sokoto,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,300736.0,3.8,714.56,0.0,714.56,1
+59680162B26521045145337,Numan,Adamawa,North East,wash,Servizi igienici femminili separati + acqua,89865.0,3.65,218.4,0.0,218.4,1
+59680162B43215766185997,Kaltungo,Gombe,North East,almajiri,Integrazione scuola coranica-curriculum formale,820092.0,2.94,2008.68,0.0,2008.68,1
+59680162B35628626888177,Dandi,Kebbi,North West,wash,Servizi igienici femminili separati + acqua,476415.0,3.68,1170.17,0.0,1170.17,1
+59680162B41420170912929,Ganye,Adamawa,North East,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,948928.0,3.93,2333.02,0.0,2333.02,1
+59680162B79463473975333,Birnin Gwari,Kaduna,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,467520.0,3.94,1152.45,0.0,1152.45,1
+59680162B67238968218645,Tarmuwa,Yobe,North East,wash,Servizi igienici femminili separati + acqua,812055.0,3.71,2008.18,0.0,2008.18,1
+59680162B63010488329613,Tafa,Niger,North Central,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,723920.0,3.98,1802.28,0.0,1802.28,1
+59680162B29257457515537,Machina,Yobe,North East,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,678400.0,3.99,1691.43,0.0,1691.43,1
+59680162B27422550871896,Damboa,Borno,North East,wash,Servizi igienici femminili separati + acqua,670035.0,3.74,1671.07,0.0,1671.07,1
+59680162B30447030328077,Gagarawa,Jigawa,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,416448.0,3.99,1039.44,0.0,1039.44,1
+59680162B45442733436767,Aleiro,Kebbi,North West,wash,Servizi igienici femminili separati + acqua,643215.0,3.75,1606.57,0.0,1606.57,1
+59680162B86116731035265,Gassol,Taraba,North East,almajiri,Integrazione scuola coranica-curriculum formale,541836.0,3.0,1354.05,0.0,1354.05,1
+59680162B43558777101724,Bukkuyum,Zamfara,North West,cct,Trasferimenti monetari condizionati,1294686.0,8.5,3237.0,0.0,3237.0,1
+59680162B98747212970025,Dambatta,Kano,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,251024.0,4.01,628.9,0.0,628.9,1
+59680162B64690225464412,Kaura Namoda,Zamfara,North West,almajiri,Integrazione scuola coranica-curriculum formale,441132.0,3.01,1106.93,0.0,1106.93,1
+59680162B43637132059207,Gamawa,Bauchi,North East,cct,Trasferimenti monetari condizionati,720018.0,8.54,1809.48,0.0,1809.48,1
+59680162B19874744513454,Kunchi,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,1300884.0,3.03,3289.36,0.0,3289.36,1
+59680162B12574760496394,Ikara,Kaduna,North West,almajiri,Integrazione scuola coranica-curriculum formale,630144.0,3.04,1595.46,0.0,1595.46,1
+59680162B73440349718888,Mai'Adua,Katsina,North West,wash,Servizi igienici femminili separati + acqua,300240.0,3.8,760.59,0.0,760.59,1
+59680162B89404589930000,Kagarko,Kaduna,North West,cct,Trasferimenti monetari condizionati,1875848.0,8.62,4753.74,0.0,4753.74,1
+59680162B61760155439631,Girei,Adamawa,North East,almajiri,Integrazione scuola coranica-curriculum formale,349584.0,3.05,887.53,0.0,887.53,1
+59680162B60516342630503,Dutsin Ma,Katsina,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,289280.0,4.06,734.75,0.0,734.75,1
+59680162B27261417712833,Ingawa,Katsina,North West,wash,Servizi igienici femminili separati + acqua,1834110.0,5.47,6683.22,0.0,4678.26,2
+59680162B96182902271382,Gwarzo,Kano,North West,wash,Servizi igienici femminili separati + acqua,574560.0,3.83,1465.63,0.0,1465.63,1
+59680162B91304502238334,Katsina,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,473736.0,3.06,1208.97,0.0,1208.97,1
+59680162B70265669805684,Shiroro,Niger,North Central,wash,Servizi igienici femminili separati + acqua,136170.0,3.83,347.53,0.0,347.53,1
+59680162B87372052025364,Maradun,Zamfara,North West,wash,Servizi igienici femminili separati + acqua,1983750.0,3.85,5087.09,0.0,5087.09,1
+59680162B797578221173,Wurno,Sokoto,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,799648.0,4.11,2054.92,0.0,2054.92,1
+59680162B15317000449503,Ifelodun,Kwara,North Central,wash,Servizi igienici femminili separati + acqua,376005.0,3.86,966.69,0.0,966.69,1
+59680162B84327981884458,Tudun Wada,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,366720.0,3.09,944.81,0.0,944.81,1
+59680162B52281011363885,Gada,Sokoto,North West,wash,Servizi igienici femminili separati + acqua,595110.0,3.86,1533.36,0.0,1533.36,1
+59680162B7305913438202,Gwadabawa,Sokoto,North West,almajiri,Integrazione scuola coranica-curriculum formale,730608.0,3.09,1883.25,0.0,1883.25,1
+59680162B46455483877403,Bunkure,Kano,North West,wash,Servizi igienici femminili separati + acqua,355290.0,3.88,918.55,0.0,918.55,1
+59680162B54095353953704,Kibiya,Kano,North West,cct,Trasferimenti monetari condizionati,2283338.0,8.79,5905.13,0.0,5905.13,1
+59680162B41078826165134,Kiri Kasama,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,346944.0,3.11,899.16,0.0,899.16,1
+59680162B53228015633193,Tangaza,Sokoto,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,417408.0,4.15,1081.94,0.0,1081.94,1
+59680162B62255786160615,Kogi,Kogi,North Central,wash,Servizi igienici femminili separati + acqua,428295.0,3.89,1110.36,0.0,1110.36,1
+59680162B63960569375521,Anka,Zamfara,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,503088.0,4.15,1306.34,0.0,1306.34,1
+59680162B66628176907248,Mayo-Belwa,Adamawa,North East,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,372320.0,4.16,967.82,0.0,967.82,1
+59680162B10627743467335,Bursari,Yobe,North East,almajiri,Integrazione scuola coranica-curriculum formale,164796.0,3.12,428.67,0.0,428.67,1
+59680162B27876975276040,Kala Balge,Borno,North East,wash,Servizi igienici femminili separati + acqua,790125.0,3.91,2058.77,0.0,2058.77,1
+59680162B37340403082689,Batagarawa,Katsina,North West,trasporto,Trasporto scolastico e aule satellite,460944.0,7.06,1204.56,0.0,1204.56,1
+59680162B94726154492089,Bassa,Plateau,North Central,trasporto,Trasporto scolastico e aule satellite,1547775.0,7.08,4058.86,0.0,4058.86,1
+59680162B87534880716336,Gashaka,Taraba,North East,wash,Servizi igienici femminili separati + acqua,516630.0,3.94,1357.41,0.0,1357.41,1
+59680162B33448314455063,Lere,Kaduna,North West,cct,Trasferimenti monetari condizionati,1429190.0,8.94,3759.71,0.0,3759.71,1
+59680162B46976557303871,Bunza,Kebbi,North West,wash,Servizi igienici femminili separati + acqua,172305.0,3.96,454.73,0.0,454.73,1
+59680162B87731060313783,Sumaila,Kano,North West,wash,Servizi igienici femminili separati + acqua,160275.0,3.96,423.23,0.0,423.23,1
+59680162B19484855656708,Baure,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,353112.0,3.18,934.87,0.0,934.87,1
+59680162B7261312330016,Adavi,Kogi,North Central,wash,Servizi igienici femminili separati + acqua,1415940.0,3.98,3753.55,0.0,3753.55,1
+59680162B18982121994254,Wukari,Taraba,North East,almajiri,Integrazione scuola coranica-curriculum formale,983436.0,3.18,2607.56,0.0,2607.56,1
+59680162B30817931145163,Balanga,Gombe,North East,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,761520.0,4.26,2026.19,0.0,2026.19,1
+59680162B18672795330723,Askira Uba,Borno,North East,wash,Servizi igienici femminili separati + acqua,892215.0,4.0,2376.83,0.0,2376.83,1
+59680162B20020413332718,Mafa,Borno,North East,almajiri,Integrazione scuola coranica-curriculum formale,705996.0,3.2,1881.56,0.0,1881.56,1
+59680162B56865757670534,Dala,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,826224.0,3.2,2204.33,0.0,2204.33,1
+59680162B7149387462115,Sabon Gari,Kaduna,North West,wash,Servizi igienici femminili separati + acqua,337395.0,4.02,903.14,0.0,903.14,1
+59680162B90957738044815,Yankwashi,Jigawa,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,286912.0,4.28,768.11,0.0,768.11,1
+59680162B89203090045374,Lavun,Niger,North Central,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,1543888.0,4.29,4135.67,0.0,4135.67,1
+59680162B32856652540007,Chibok,Borno,North East,wash,Servizi igienici femminili separati + acqua,599805.0,4.02,1607.64,0.0,1607.64,1
+59680162B8258215962885,Darazo,Bauchi,North East,almajiri,Integrazione scuola coranica-curriculum formale,291252.0,3.22,780.9,0.0,780.9,1
+59680162B73114171000075,Bichi,Kano,North West,wash,Servizi igienici femminili separati + acqua,243870.0,4.03,655.92,0.0,655.92,1
+59680162B31936578466171,Monguno,Borno,North East,wash,Servizi igienici femminili separati + acqua,409635.0,4.05,1106.01,0.0,1106.01,1
+59680162B45761287530482,Demsa,Adamawa,North East,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,1610560.0,4.33,4362.68,0.0,4362.68,1
+59680162B46612932493253,Albasu,Kano,North West,cct,Trasferimenti monetari condizionati,1879350.0,9.22,5095.81,0.0,5095.81,1
+59680162B21692666530817,Safana,Katsina,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,640304.0,4.34,1738.01,0.0,1738.01,1
+59680162B74336355497846,Biriniwa,Jigawa,North West,wash,Servizi igienici femminili separati + acqua,283755.0,4.07,770.7,0.0,770.7,1
+59680162B31817043180897,Shani,Borno,North East,almajiri,Integrazione scuola coranica-curriculum formale,999636.0,3.26,2715.66,0.0,2715.66,1
+59680162B72495617993590,Mikang,Plateau,North Central,trasporto,Trasporto scolastico e aule satellite,512190.0,7.34,1392.73,0.0,1392.73,1
+59680162B13073760931893,Gombi,Adamawa,North East,wash,Servizi igienici femminili separati + acqua,231525.0,4.11,633.79,0.0,633.79,1
+59680162B98222207712503,Bali,Taraba,North East,almajiri,Integrazione scuola coranica-curriculum formale,479760.0,3.29,1313.47,0.0,1313.47,1
+59680162B69095881694103,Gboko,Benue,North Central,wash,Servizi igienici femminili separati + acqua,710790.0,4.12,1951.18,0.0,1951.18,1
+59680162B2967434957315,Giwa,Kaduna,North West,wash,Servizi igienici femminili separati + acqua,893850.0,4.14,2469.14,0.0,2469.14,1
+59680162B86414227144381,Buji,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,610572.0,3.34,1701.59,0.0,1701.59,1
+59680162B15311652495769,Kaga,Borno,North East,wash,Servizi igienici femminili separati + acqua,872550.0,4.18,2433.14,0.0,2433.14,1
+59680162B82734256395858,Sardauna,Taraba,North East,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,1529680.0,4.47,4269.15,0.0,4269.15,1
+59680162B65219804693248,Ngala,Borno,North East,almajiri,Integrazione scuola coranica-curriculum formale,441876.0,3.36,1237.49,0.0,1237.49,1
+59680162B23595872951211,Shagari,Sokoto,North West,wash,Servizi igienici femminili separati + acqua,516630.0,4.21,1448.35,0.0,1448.35,1
+59680162B39799007570945,Hadejia,Jigawa,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,538880.0,4.49,1511.78,0.0,1511.78,1
+59680162B40051654285197,Yorro,Taraba,North East,almajiri,Integrazione scuola coranica-curriculum formale,277392.0,3.38,781.81,0.0,781.81,1
+59680162B86357482908219,Lafia,Nasarawa,North Central,wash,Servizi igienici femminili separati + acqua,483315.0,4.25,1368.02,0.0,1368.02,1
+59680162B27389948970996,Illela,Sokoto,North West,almajiri,Integrazione scuola coranica-curriculum formale,269760.0,3.41,766.08,0.0,766.08,1
+59680162B31064170938287,Kaugama,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,1284168.0,3.41,3649.18,0.0,3649.18,1
+59680162B1898458611197,Makoda,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,612204.0,3.41,1739.73,0.0,1739.73,1
+59680162B91029831757376,Dambam,Bauchi,North East,almajiri,Integrazione scuola coranica-curriculum formale,559536.0,3.42,1592.83,0.0,1592.83,1
+59680162B65118596491840,Hawul,Borno,North East,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,253088.0,4.56,721.24,0.0,721.24,1
+59680162B83966420631158,Guyuk,Adamawa,North East,wash,Servizi igienici femminili separati + acqua,678990.0,4.32,1953.55,0.0,1953.55,1
+59680162B83800309048446,Gubio,Borno,North East,wash,Servizi igienici femminili separati + acqua,712185.0,4.33,2056.01,0.0,2056.01,1
+59680162B97880726687240,Kumbotso,Kano,North West,wash,Servizi igienici femminili separati + acqua,382140.0,4.33,1103.3,0.0,1103.3,1
+59680162B85493721249292,Shinkafi,Zamfara,North West,wash,Servizi igienici femminili separati + acqua,783660.0,4.35,2271.35,0.0,2271.35,1
+59680162B25890229119009,Bagudu,Kebbi,North West,almajiri,Integrazione scuola coranica-curriculum formale,471288.0,3.49,1370.12,0.0,1370.12,1
+59680162B81014786719276,Vandeikya,Benue,North Central,almajiri,Integrazione scuola coranica-curriculum formale,186792.0,3.5,544.77,0.0,544.77,1
+59680162B80813578140782,Gusau,Zamfara,North West,almajiri,Integrazione scuola coranica-curriculum formale,582864.0,3.5,1700.11,0.0,1700.11,1
+59680162B23965546094498,Dandume,Katsina,North West,wash,Servizi igienici femminili separati + acqua,627090.0,4.39,1835.45,0.0,1835.45,1
+59680162B5525087107293,Oyun,Kwara,North Central,wash,Servizi igienici femminili separati + acqua,866460.0,4.4,2540.48,0.0,2540.48,1
+59680162B23949108035203,Ajaokuta,Kogi,North Central,wash,Servizi igienici femminili separati + acqua,454845.0,4.4,1334.78,0.0,1334.78,1
+59680162B10083289652159,Kafur,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,744828.0,3.52,2187.54,0.0,2187.54,1
+59680162B85303802109421,Gurara,Niger,North Central,wash,Servizi igienici femminili separati + acqua,184830.0,4.41,543.18,0.0,543.18,1
+59680162B91492845849591,Sokoto North,Sokoto,North West,almajiri,Integrazione scuola coranica-curriculum formale,258444.0,3.54,762.5,0.0,762.5,1
+59680162B57364751970918,Lamurde,Adamawa,North East,wash,Servizi igienici femminili separati + acqua,1293480.0,4.43,3816.62,0.0,3816.62,1
+59680162B60638866528984,Kirfi,Bauchi,North East,almajiri,Integrazione scuola coranica-curriculum formale,216552.0,3.54,639.07,0.0,639.07,1
+59680162B82996162763265,Song,Adamawa,North East,almajiri,Integrazione scuola coranica-curriculum formale,158544.0,3.55,468.45,0.0,468.45,1
+59680162B37281482686762,Wamba,Nasarawa,North Central,wash,Servizi igienici femminili separati + acqua,1182630.0,4.43,3496.1,0.0,3496.1,1
+59680162B88365177272018,Tsanyawa,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,284004.0,3.55,839.86,0.0,839.86,1
+59680162B51925471610757,Faskari,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,766632.0,3.55,2268.12,0.0,2268.12,1
+59680162B24430291126178,Dawakin Kudu,Kano,North West,trasporto,Trasporto scolastico e aule satellite,772767.0,8.0,2289.68,0.0,2289.68,1
+59680162B46553103488347,Rimin Gado,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,695076.0,3.56,2060.32,0.0,2060.32,1
+59680162B90037113183568,Gujba,Yobe,North East,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,590960.0,4.75,1753.84,0.0,1753.84,1
+59680162B60875368726655,Sanga,Kaduna,North West,almajiri,Integrazione scuola coranica-curriculum formale,277920.0,3.57,826.55,0.0,826.55,1
+59680162B46313771844948,Toungo,Adamawa,North East,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,1011952.0,4.76,3013.25,0.0,3013.25,1
+59680162B72659245241320,Kaduna North,Kaduna,North West,almajiri,Integrazione scuola coranica-curriculum formale,212316.0,3.59,635.56,0.0,635.56,1
+59680162B84224544107566,Kaura,Kaduna,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,379328.0,4.79,1135.9,0.0,1135.9,1
+59680162B89701706643364,Silame,Sokoto,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,754496.0,4.79,2259.84,0.0,2259.84,1
+59680162B47761767082139,Soba,Kaduna,North West,almajiri,Integrazione scuola coranica-curriculum formale,164040.0,3.6,491.8,0.0,491.8,1
+59680162B43366957039329,Gwaram,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,946260.0,3.6,2842.41,0.0,2842.41,1
+59680162B13670821264537,Karu,Nasarawa,North Central,almajiri,Integrazione scuola coranica-curriculum formale,361536.0,3.61,1087.85,0.0,1087.85,1
+59680162B34961354684930,Maiyama,Kebbi,North West,almajiri,Integrazione scuola coranica-curriculum formale,251196.0,3.61,756.48,0.0,756.48,1
+59680162B48034518845808,Sakaba,Kebbi,North West,almajiri,Integrazione scuola coranica-curriculum formale,1421064.0,3.62,4288.69,0.0,4288.69,1
+59680162B88504568355174,Konduga,Borno,North East,wash,Servizi igienici femminili separati + acqua,603120.0,4.57,1836.49,0.0,1836.49,1
+59680162B13157392837231,Karim Lamido,Taraba,North East,almajiri,Integrazione scuola coranica-curriculum formale,557988.0,3.65,1699.14,0.0,1699.14,1
+59680162B25728635468586,Tureta,Sokoto,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,316848.0,4.9,970.77,0.0,970.77,1
+59680162B89355923746110,Abadam,Borno,North East,almajiri,Integrazione scuola coranica-curriculum formale,411828.0,3.69,1265.33,0.0,1265.33,1
+59680162B66631777088899,Isa,Sokoto,North West,almajiri,Integrazione scuola coranica-curriculum formale,225552.0,3.69,693.23,0.0,693.23,1
+59680162B97642938083661,Dawakin Tofa,Kano,North West,wash,Servizi igienici femminili separati + acqua,405510.0,4.61,1247.59,0.0,1247.59,1
+59680162B48786148420785,Tafawa-Balewa,Bauchi,North East,almajiri,Integrazione scuola coranica-curriculum formale,670260.0,3.69,2063.49,0.0,2063.49,1
+59680162B76704120420691,Damaturu,Yobe,North East,almajiri,Integrazione scuola coranica-curriculum formale,373320.0,3.7,1151.2,0.0,1151.2,1
+59680162B51570410917379,Garko,Kano,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,1389296.0,4.97,4312.67,0.0,4312.67,1
+59680162B85175001165051,Bwari,FCT,North Central,wash,Servizi igienici femminili separati + acqua,376005.0,4.67,1169.6,0.0,1169.6,1
+59680162B91454305469147,Zango,Katsina,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,1021936.0,5.0,3193.55,0.0,3193.55,1
+59680162B37059166930142,Jema'A,Kaduna,North West,almajiri,Integrazione scuola coranica-curriculum formale,906756.0,3.77,2850.01,0.0,2850.01,1
+59680162B7876035432306,Shanono,Kano,North West,wash,Servizi igienici femminili separati + acqua,733245.0,4.72,2306.8,0.0,2306.8,1
+59680162B51390103580898,Minjibir,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,333348.0,3.8,1056.99,0.0,1056.99,1
+59680162B49809531314946,Rafi,Niger,North Central,wash,Servizi igienici femminili separati + acqua,1020720.0,4.77,3242.65,0.0,3242.65,1
+59680162B26282391091652,Zaki,Bauchi,North East,almajiri,Integrazione scuola coranica-curriculum formale,809076.0,3.82,2577.57,0.0,2577.57,1
+59680162B7192144408722,Kurfi,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,314664.0,3.84,1008.2,0.0,1008.2,1
+59680162B33139882700556,Kware,Sokoto,North West,wash,Servizi igienici femminili separati + acqua,1287795.0,4.82,4137.04,0.0,4137.04,1
+59680162B80605638185127,Argungu,Kebbi,North West,wash,Servizi igienici femminili separati + acqua,305775.0,4.84,985.66,0.0,985.66,1
+59680162B2846194934808,Gwoza,Borno,North East,wash,Servizi igienici femminili separati + acqua,810600.0,4.84,2614.78,0.0,2614.78,1
+59680162B60568566930973,Zing,Taraba,North East,wash,Servizi igienici femminili separati + acqua,428250.0,4.85,1384.58,0.0,1384.58,1
+59680162B77220990792423,Makarfi,Kaduna,North West,almajiri,Integrazione scuola coranica-curriculum formale,326676.0,3.88,1056.38,0.0,1056.38,1
+59680162B96995039930644,Dange Shuni,Sokoto,North West,almajiri,Integrazione scuola coranica-curriculum formale,976464.0,3.88,3161.11,0.0,3161.11,1
+59680162B79502957035648,Kajuru,Kaduna,North West,almajiri,Integrazione scuola coranica-curriculum formale,270312.0,3.91,879.92,0.0,879.92,1
+59680162B64027612781435,Agwara,Niger,North Central,wash,Servizi igienici femminili separati + acqua,753375.0,4.89,2456.56,0.0,2456.56,1
+59680162B25446485561557,Gwer West,Benue,North Central,almajiri,Integrazione scuola coranica-curriculum formale,248700.0,3.92,812.02,0.0,812.02,1
+59680162B41504820717654,Roni,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,439488.0,3.92,1437.19,0.0,1437.19,1
+59680162B54988677972163,Jibia,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,809184.0,3.95,2661.18,0.0,2661.18,1
+59680162B85415328791745,Batsari,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,421680.0,3.96,1389.84,0.0,1389.84,1
+59680162B62375507242594,Kura,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,756816.0,3.96,2498.33,0.0,2498.33,1
+59680162B97563361057366,Doguwa,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,188340.0,3.97,622.86,0.0,622.86,1
+59680162B65662189989638,Arewa Dandi,Kebbi,North West,almajiri,Integrazione scuola coranica-curriculum formale,185928.0,3.98,616.17,0.0,616.17,1
+59680162B7272699675434,Birnin Kudu,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,170736.0,3.98,566.81,0.0,566.81,1
+59680162B47779539071975,Yauri,Kebbi,North West,almajiri,Integrazione scuola coranica-curriculum formale,448848.0,4.01,1500.41,0.0,1500.41,1
+59680162B66353567053476,Guri,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,328068.0,4.04,1103.56,0.0,1103.56,1
+59680162B56562801938729,Bodinga,Sokoto,North West,almajiri,Integrazione scuola coranica-curriculum formale,318912.0,4.04,1073.57,0.0,1073.57,1
+59680162B52658055469559,Malam Madori,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,533484.0,4.08,1813.1,0.0,1813.1,1
+59680162B42687104490462,Danja,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,673308.0,4.08,2289.74,0.0,2289.74,1
+59680162B24316958669382,Fagge,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,244752.0,4.08,832.7,0.0,832.7,1
+59680162B63361885953813,Warawa,Kano,North West,wash,Servizi igienici femminili separati + acqua,1019190.0,5.11,3470.53,0.0,3470.53,1
+59680162B93375949891062,Dan Musa,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,792504.0,4.09,2698.63,0.0,2698.63,1
+59680162B4050907661224,Wasagu-Danko,Kebbi,North West,almajiri,Integrazione scuola coranica-curriculum formale,1112544.0,4.09,3788.53,0.0,3788.53,1
+59680162B93100308813933,Maigatari,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,729048.0,4.13,2508.66,0.0,2508.66,1
+59680162B24502748844916,Bakura,Zamfara,North West,almajiri,Integrazione scuola coranica-curriculum formale,224604.0,4.14,774.41,0.0,774.41,1
+59680162B23952502219543,Biu,Borno,North East,almajiri,Integrazione scuola coranica-curriculum formale,560940.0,4.15,1940.17,0.0,1940.17,1
+59680162B20432910054227,Goronyo,Sokoto,North West,almajiri,Integrazione scuola coranica-curriculum formale,127896.0,4.16,443.12,0.0,443.12,1
+59680162B95103667512911,Kebbe,Sokoto,North West,almajiri,Integrazione scuola coranica-curriculum formale,263940.0,4.16,915.28,0.0,915.28,1
+59680162B33993495702938,Jalingo,Taraba,North East,almajiri,Integrazione scuola coranica-curriculum formale,1164804.0,4.16,4040.06,0.0,4040.06,1
+59680162B5954014037791,Ardo-Kola,Taraba,North East,wash,Servizi igienici femminili separati + acqua,317625.0,5.26,1114.21,0.0,1114.21,1
+59680162B11863934245151,Ankpa,Kogi,North Central,almajiri,Integrazione scuola coranica-curriculum formale,491484.0,4.22,1727.23,0.0,1727.23,1
+59680162B26576505992161,Kazaure,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,444744.0,4.25,1575.37,0.0,1575.37,1
+59680162B83099166959131,Igabi,Kaduna,North West,almajiri,Integrazione scuola coranica-curriculum formale,554868.0,4.26,1967.54,0.0,1967.54,1
+59680162B19433829654146,Mashi,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,418944.0,4.26,1487.4,0.0,1487.4,1
+59680162B87154562016330,Rimi,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,307512.0,4.26,1092.46,0.0,1092.46,1
+59680162B94433697734962,Daura,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,466776.0,4.3,1672.11,0.0,1672.11,1
+59680162B11671066128606,Bogoro,Bauchi,North East,almajiri,Integrazione scuola coranica-curriculum formale,382224.0,4.3,1370.99,0.0,1370.99,1
+59680162B61995403132351,Agatu,Benue,North Central,almajiri,Integrazione scuola coranica-curriculum formale,1143576.0,4.31,4109.91,0.0,4109.91,1
+59680162B69796164397605,Bebeji,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,471264.0,4.32,1695.73,0.0,1695.73,1
+59680162B79526209894783,Kauru,Kaduna,North West,almajiri,Integrazione scuola coranica-curriculum formale,305016.0,4.32,1098.61,0.0,1098.61,1
+59680162B87284296025200,Ngaski,Kebbi,North West,almajiri,Integrazione scuola coranica-curriculum formale,557520.0,4.34,2016.88,0.0,2016.88,1
+59680162B96971531554224,Taura,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,411480.0,4.37,1499.57,0.0,1499.57,1
+59680162B80393484388201,Ibi,Taraba,North East,almajiri,Integrazione scuola coranica-curriculum formale,2030052.0,4.47,7556.33,0.0,7556.33,1
+59680162B42162352171568,Birnin Magaji-Kiyaw,Zamfara,North West,almajiri,Integrazione scuola coranica-curriculum formale,227604.0,4.5,852.88,0.0,852.88,1
+59680162B63684780260143,Koko-Besse,Kebbi,North West,almajiri,Integrazione scuola coranica-curriculum formale,621444.0,4.52,2338.88,0.0,2338.88,1
+59680162B61092998371306,Alkaleri,Bauchi,North East,almajiri,Integrazione scuola coranica-curriculum formale,259200.0,4.52,975.92,0.0,975.92,1
+59680162B12426298681132,Tsafe,Zamfara,North West,almajiri,Integrazione scuola coranica-curriculum formale,1256436.0,4.52,4737.79,0.0,4737.79,1
+59680162B53208862785263,Kaita,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,1089780.0,4.53,4112.83,0.0,4112.83,1
+59680162B61567493958965,Suru,Kebbi,North West,almajiri,Integrazione scuola coranica-curriculum formale,544812.0,4.57,2072.87,0.0,2072.87,1
+59680162B75348496545912,Bakori,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,495876.0,4.63,1912.75,0.0,1912.75,1
+59680162B38485988708032,Nguru,Yobe,North East,almajiri,Integrazione scuola coranica-curriculum formale,529188.0,4.67,2060.71,0.0,2060.71,1
+59680162B24840578600877,Tarauni,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,259692.0,4.67,1011.51,0.0,1011.51,1
+59680162B8390528040617,Kankara,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,464604.0,4.69,1815.78,0.0,1815.78,1
+59680162B84612216171504,Hong,Adamawa,North East,almajiri,Integrazione scuola coranica-curriculum formale,119736.0,4.7,468.64,0.0,468.64,1
+59680162B62360966111253,Matazu,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,637620.0,4.72,2507.24,0.0,2507.24,1
+59680162B43671986122418,Gudu,Sokoto,North West,almajiri,Integrazione scuola coranica-curriculum formale,931140.0,4.74,3677.23,0.0,3677.23,1
+59680162B44120553871969,Sule Tankarkar,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,1326696.0,4.74,5241.41,0.0,5241.41,1
+59680162B88881037507986,Kusada,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,654972.0,4.74,2588.26,0.0,2588.26,1
+59680162B90895100901083,Itas/Gadau,Bauchi,North East,almajiri,Integrazione scuola coranica-curriculum formale,893460.0,4.78,3557.69,0.0,3557.69,1
+59680162B60349541451220,Dutsi,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,845940.0,4.8,3382.98,0.0,3382.98,1
+59680162B52609098277437,Ringim,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,343440.0,4.81,1376.22,0.0,1376.22,1
+59680162B41297071563530,Bayo,Borno,North East,almajiri,Integrazione scuola coranica-curriculum formale,281484.0,4.81,1129.45,0.0,1129.45,1
+59680162B64636531363939,Gwiwa,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,529332.0,4.85,2139.53,0.0,2139.53,1
+59680162B61002782115608,Yusufari,Yobe,North East,almajiri,Integrazione scuola coranica-curriculum formale,309420.0,4.86,1252.09,0.0,1252.09,1
+59680162B95139171035149,Akko,Gombe,North East,almajiri,Integrazione scuola coranica-curriculum formale,378624.0,4.86,1533.89,0.0,1533.89,1
+59680162B19536521240899,Gaya,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,574068.0,4.89,2339.07,0.0,2339.07,1
+59680162B67680561366569,Karasuwa,Yobe,North East,almajiri,Integrazione scuola coranica-curriculum formale,275832.0,4.98,1144.52,0.0,1144.52,1
+59680162B90439441381954,Kubau,Kaduna,North West,almajiri,Integrazione scuola coranica-curriculum formale,399396.0,4.98,1658.2,0.0,1658.2,1
+59680162B25309364748934,Maru,Zamfara,North West,almajiri,Integrazione scuola coranica-curriculum formale,822048.0,5.01,3434.81,0.0,3434.81,1
+59680162B10012275275709,Gezawa,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,597660.0,5.01,2497.3,0.0,2497.3,1
+59680162B59256397716169,Malumfashi,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,724200.0,5.02,3026.55,0.0,3026.55,1
+59680162B89921626898623,Sokoto South,Sokoto,North West,almajiri,Integrazione scuola coranica-curriculum formale,911148.0,5.03,3822.89,0.0,3822.89,1
+59680162B90533313280833,Nangere,Yobe,North East,almajiri,Integrazione scuola coranica-curriculum formale,350664.0,5.04,1471.89,0.0,1471.89,1
+59680162B36976404849364,Ungogo,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,402804.0,5.04,1691.42,0.0,1691.42,1
+59680162B76882427234764,Dutse,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,294552.0,5.04,1236.9,0.0,1236.9,1
+59680162B83386112613514,Gombe,Gombe,North East,almajiri,Integrazione scuola coranica-curriculum formale,151056.0,5.05,636.14,0.0,636.14,1
+59680162B31389051207927,Kafin Hausa,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,375816.0,5.06,1583.93,0.0,1583.93,1
+59680162B12953009585437,Babura,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,210840.0,5.08,893.39,0.0,893.39,1
+59680162B71065109904105,Garki,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,173760.0,5.1,737.93,0.0,737.93,1
+59680162B21010588258079,Tambuwal,Sokoto,North West,almajiri,Integrazione scuola coranica-curriculum formale,578496.0,5.12,2469.26,0.0,2469.26,1
+59680162B47339407576735,Yamaltu/Deba,Gombe,North East,almajiri,Integrazione scuola coranica-curriculum formale,251424.0,5.14,1076.37,0.0,1076.37,1
+59680162B53174064204838,Rogo,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,1083756.0,5.15,4651.23,0.0,4651.23,1
+59680162B61170702756328,Ussa,Taraba,North East,almajiri,Integrazione scuola coranica-curriculum formale,277584.0,5.16,1192.63,0.0,1192.63,1
+59680162B24147659958725,Yola South,Adamawa,North East,almajiri,Integrazione scuola coranica-curriculum formale,1071972.0,5.17,4614.04,0.0,4614.04,1
+59680162B64610537243626,Gwandu,Kebbi,North West,almajiri,Integrazione scuola coranica-curriculum formale,426180.0,5.21,1848.82,0.0,1848.82,1
+59680162B20002653395444,Gumel,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,1077852.0,5.24,4703.85,0.0,4703.85,1
+59680162B19163785016026,Garun Malam,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,570792.0,5.26,2503.52,0.0,2503.52,1
+59680162B10831398447622,Wamakko,Sokoto,North West,almajiri,Integrazione scuola coranica-curriculum formale,724584.0,5.27,3184.32,0.0,3184.32,1
+59680162B77130024076735,Birnin Kebbi,Kebbi,North West,almajiri,Integrazione scuola coranica-curriculum formale,354840.0,5.29,1563.04,0.0,1563.04,1
+59680162B50452180674611,Charanchi,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,415188.0,5.29,1831.98,0.0,1831.98,1
+59680162B26946733152657,Kukawa,Borno,North East,almajiri,Integrazione scuola coranica-curriculum formale,654612.0,5.31,2894.57,0.0,2894.57,1
+59680162B19523503473687,Auyo,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,270660.0,5.33,1202.06,0.0,1202.06,1
+59680162B63355484795141,Jaba,Kaduna,North West,almajiri,Integrazione scuola coranica-curriculum formale,444048.0,5.38,1990.31,0.0,1990.31,1
+59680162B27261417712833,Ingawa,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,1467288.0,5.41,6610.0,0.0,6610.0,1
+59680162B51512347513243,Musawa,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,476340.0,5.44,2159.92,0.0,2159.92,1
+59680162B20086286793745,Kiru,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,580260.0,5.46,2638.17,0.0,2638.17,1
+59680162B87872962443621,Mobbar,Borno,North East,almajiri,Integrazione scuola coranica-curriculum formale,414216.0,5.47,1888.26,0.0,1888.26,1
+59680162B3936014826761,Bindawa,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,380316.0,5.52,1749.83,0.0,1749.83,1
+59680162B37513478805829,Gummi,Zamfara,North West,almajiri,Integrazione scuola coranica-curriculum formale,957264.0,5.56,4436.61,0.0,4436.61,1
+59680162B14541309037731,Wudil,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,449748.0,5.63,2111.76,0.0,2111.76,1
+59680162B58679994750141,Bagwai,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,190872.0,5.7,907.43,0.0,907.43,1
+59680162B88243538379460,Rano,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,275772.0,5.72,1315.33,0.0,1315.33,1
+59680162B70118559758614,Geidam,Yobe,North East,almajiri,Integrazione scuola coranica-curriculum formale,359016.0,5.75,1719.47,0.0,1719.47,1
+59680162B13498430232382,Jega,Kebbi,North West,almajiri,Integrazione scuola coranica-curriculum formale,459708.0,5.87,2247.54,0.0,2247.54,1
+59680162B54666922464494,Sandamu,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,216732.0,5.88,1061.25,0.0,1061.25,1
+59680162B14319741144045,Miga,Jigawa,North West,almajiri,Integrazione scuola coranica-curriculum formale,2524824.0,5.95,12509.27,0.0,12509.27,1
+59680162B46902450612836,Tofa,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,704364.0,5.98,3510.98,0.0,3510.98,1
+59680162B5579026585541,Madobi,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,1002252.0,6.0,5013.44,0.01,5013.44,1
+59680162B33775428128459,Shira,Bauchi,North East,almajiri,Integrazione scuola coranica-curriculum formale,891480.0,6.23,4630.28,0.01,4630.28,1
+59680162B59976260592487,Mani,Katsina,North West,almajiri,Integrazione scuola coranica-curriculum formale,443256.0,6.47,2390.12,0.01,2390.12,1
+59680162B98184498564097,Nassarawa,Kano,North West,almajiri,Integrazione scuola coranica-curriculum formale,352932.0,6.53,1920.96,0.01,1920.96,1
+59680162B48318677941344,Sabon Birni,Sokoto,North West,almajiri,Integrazione scuola coranica-curriculum formale,383064.0,7.0,2234.54,0.01,2234.54,1
+59680162B24502748844916,Bakura,Zamfara,North West,alfabet,Alfabetizzazione femminile adulta e mobilitazione comunitaria,299472.0,3.89,728.0,0.0,728.0,1

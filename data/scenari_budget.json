@@ -1,0 +1,945 @@
+{
+ "scenari": {
+  "50": {
+   "budget_mln": 50,
+   "speso": 49.99,
+   "lga_coperte": 83,
+   "interventi": 84,
+   "bambini": 209823,
+   "costo_per_bambino": 238.2,
+   "sroi": 7.5,
+   "beneficio_mln": 375.0,
+   "per_intervento": [
+    {
+     "id": "almajiri",
+     "nome": "Integrazione scuola coranica-curriculum formale",
+     "lga": 83,
+     "costo_mln": 48.15,
+     "bambini": 203140
+    },
+    {
+     "id": "wash",
+     "nome": "Servizi igienici femminili separati + acqua",
+     "lga": 1,
+     "costo_mln": 1.83,
+     "bambini": 6683
+    }
+   ],
+   "per_zona": [
+    {
+     "zona": "North Central",
+     "lga": 2,
+     "costo_mln": 1.64,
+     "bambini": 5837
+    },
+    {
+     "zona": "North East",
+     "lga": 19,
+     "costo_mln": 9.88,
+     "bambini": 41174
+    },
+    {
+     "zona": "North West",
+     "lga": 62,
+     "costo_mln": 38.47,
+     "bambini": 162812
+    }
+   ],
+   "top_lga": [
+    {
+     "lga": "Miga",
+     "state": "Jigawa",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 2.52,
+     "bambini": 12509
+    },
+    {
+     "lga": "Ibi",
+     "state": "Taraba",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 2.03,
+     "bambini": 7556
+    },
+    {
+     "lga": "Ingawa",
+     "state": "Katsina",
+     "intervento": "Servizi igienici femminili separati + acqua",
+     "costo_mln": 1.83,
+     "bambini": 6683
+    },
+    {
+     "lga": "Ingawa",
+     "state": "Katsina",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.47,
+     "bambini": 6610
+    },
+    {
+     "lga": "Sule Tankarkar",
+     "state": "Jigawa",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.33,
+     "bambini": 5241
+    },
+    {
+     "lga": "Madobi",
+     "state": "Kano",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.0,
+     "bambini": 5013
+    },
+    {
+     "lga": "Tsafe",
+     "state": "Zamfara",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.26,
+     "bambini": 4738
+    },
+    {
+     "lga": "Gumel",
+     "state": "Jigawa",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.08,
+     "bambini": 4704
+    },
+    {
+     "lga": "Rogo",
+     "state": "Kano",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.08,
+     "bambini": 4651
+    },
+    {
+     "lga": "Shira",
+     "state": "Bauchi",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 0.89,
+     "bambini": 4630
+    },
+    {
+     "lga": "Yola South",
+     "state": "Adamawa",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.07,
+     "bambini": 4614
+    },
+    {
+     "lga": "Gummi",
+     "state": "Zamfara",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 0.96,
+     "bambini": 4437
+    },
+    {
+     "lga": "Kaita",
+     "state": "Katsina",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.09,
+     "bambini": 4113
+    },
+    {
+     "lga": "Agatu",
+     "state": "Benue",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.14,
+     "bambini": 4110
+    },
+    {
+     "lga": "Sokoto South",
+     "state": "Sokoto",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 0.91,
+     "bambini": 3823
+    }
+   ]
+  },
+  "100": {
+   "budget_mln": 100,
+   "speso": 99.97,
+   "lga_coperte": 166,
+   "interventi": 172,
+   "bambini": 361468,
+   "costo_per_bambino": 276.6,
+   "sroi": 6.46,
+   "beneficio_mln": 646.1,
+   "per_intervento": [
+    {
+     "id": "almajiri",
+     "nome": "Integrazione scuola coranica-curriculum formale",
+     "lga": 134,
+     "costo_mln": 74.08,
+     "bambini": 284979
+    },
+    {
+     "id": "wash",
+     "nome": "Servizi igienici femminili separati + acqua",
+     "lga": 26,
+     "costo_mln": 17.83,
+     "bambini": 52958
+    },
+    {
+     "id": "alfabet",
+     "nome": "Alfabetizzazione femminile adulta e mobilitazione comunitaria",
+     "lga": 11,
+     "costo_mln": 7.29,
+     "bambini": 21242
+    },
+    {
+     "id": "trasporto",
+     "nome": "Trasporto scolastico e aule satellite",
+     "lga": 1,
+     "costo_mln": 0.77,
+     "bambini": 2290
+    }
+   ],
+   "per_zona": [
+    {
+     "zona": "North Central",
+     "lga": 12,
+     "costo_mln": 7.27,
+     "bambini": 23065
+    },
+    {
+     "zona": "North East",
+     "lga": 38,
+     "costo_mln": 21.08,
+     "bambini": 75876
+    },
+    {
+     "zona": "North West",
+     "lga": 116,
+     "costo_mln": 71.63,
+     "bambini": 262527
+    }
+   ],
+   "top_lga": [
+    {
+     "lga": "Miga",
+     "state": "Jigawa",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 2.52,
+     "bambini": 12509
+    },
+    {
+     "lga": "Ibi",
+     "state": "Taraba",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 2.03,
+     "bambini": 7556
+    },
+    {
+     "lga": "Ingawa",
+     "state": "Katsina",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.47,
+     "bambini": 6610
+    },
+    {
+     "lga": "Sule Tankarkar",
+     "state": "Jigawa",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.33,
+     "bambini": 5241
+    },
+    {
+     "lga": "Madobi",
+     "state": "Kano",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.0,
+     "bambini": 5013
+    },
+    {
+     "lga": "Tsafe",
+     "state": "Zamfara",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.26,
+     "bambini": 4738
+    },
+    {
+     "lga": "Gumel",
+     "state": "Jigawa",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.08,
+     "bambini": 4704
+    },
+    {
+     "lga": "Ingawa",
+     "state": "Katsina",
+     "intervento": "Servizi igienici femminili separati + acqua",
+     "costo_mln": 1.83,
+     "bambini": 4678
+    },
+    {
+     "lga": "Rogo",
+     "state": "Kano",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.08,
+     "bambini": 4651
+    },
+    {
+     "lga": "Shira",
+     "state": "Bauchi",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 0.89,
+     "bambini": 4630
+    },
+    {
+     "lga": "Yola South",
+     "state": "Adamawa",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.07,
+     "bambini": 4614
+    },
+    {
+     "lga": "Gummi",
+     "state": "Zamfara",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 0.96,
+     "bambini": 4437
+    },
+    {
+     "lga": "Garko",
+     "state": "Kano",
+     "intervento": "Alfabetizzazione femminile adulta e mobilitazione comunitaria",
+     "costo_mln": 1.39,
+     "bambini": 4313
+    },
+    {
+     "lga": "Sakaba",
+     "state": "Kebbi",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.42,
+     "bambini": 4289
+    },
+    {
+     "lga": "Kware",
+     "state": "Sokoto",
+     "intervento": "Servizi igienici femminili separati + acqua",
+     "costo_mln": 1.29,
+     "bambini": 4137
+    }
+   ]
+  },
+  "200": {
+   "budget_mln": 200,
+   "speso": 200.0,
+   "lga_coperte": 248,
+   "interventi": 313,
+   "bambini": 589115,
+   "costo_per_bambino": 339.5,
+   "sroi": 5.26,
+   "beneficio_mln": 1053.0,
+   "per_intervento": [
+    {
+     "id": "almajiri",
+     "nome": "Integrazione scuola coranica-curriculum formale",
+     "lga": 169,
+     "costo_mln": 92.19,
+     "bambini": 329579
+    },
+    {
+     "id": "wash",
+     "nome": "Servizi igienici femminili separati + acqua",
+     "lga": 81,
+     "costo_mln": 55.91,
+     "bambini": 136521
+    },
+    {
+     "id": "alfabet",
+     "nome": "Alfabetizzazione femminile adulta e mobilitazione comunitaria",
+     "lga": 51,
+     "costo_mln": 35.75,
+     "bambini": 83421
+    },
+    {
+     "id": "cct",
+     "nome": "Trasferimenti monetari condizionati",
+     "lga": 8,
+     "costo_mln": 12.86,
+     "bambini": 30647
+    },
+    {
+     "id": "trasporto",
+     "nome": "Trasporto scolastico e aule satellite",
+     "lga": 4,
+     "costo_mln": 3.29,
+     "bambini": 8946
+    }
+   ],
+   "per_zona": [
+    {
+     "zona": "North Central",
+     "lga": 23,
+     "costo_mln": 15.94,
+     "bambini": 45784
+    },
+    {
+     "zona": "North East",
+     "lga": 67,
+     "costo_mln": 45.58,
+     "bambini": 136976
+    },
+    {
+     "zona": "North West",
+     "lga": 158,
+     "costo_mln": 138.48,
+     "bambini": 406354
+    }
+   ],
+   "top_lga": [
+    {
+     "lga": "Miga",
+     "state": "Jigawa",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 2.52,
+     "bambini": 12509
+    },
+    {
+     "lga": "Ibi",
+     "state": "Taraba",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 2.03,
+     "bambini": 7556
+    },
+    {
+     "lga": "Ingawa",
+     "state": "Katsina",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.47,
+     "bambini": 6610
+    },
+    {
+     "lga": "Kibiya",
+     "state": "Kano",
+     "intervento": "Trasferimenti monetari condizionati",
+     "costo_mln": 2.28,
+     "bambini": 5905
+    },
+    {
+     "lga": "Miga",
+     "state": "Jigawa",
+     "intervento": "Servizi igienici femminili separati + acqua",
+     "costo_mln": 3.16,
+     "bambini": 5451
+    },
+    {
+     "lga": "Sule Tankarkar",
+     "state": "Jigawa",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.33,
+     "bambini": 5241
+    },
+    {
+     "lga": "Albasu",
+     "state": "Kano",
+     "intervento": "Trasferimenti monetari condizionati",
+     "costo_mln": 1.88,
+     "bambini": 5096
+    },
+    {
+     "lga": "Maradun",
+     "state": "Zamfara",
+     "intervento": "Servizi igienici femminili separati + acqua",
+     "costo_mln": 1.98,
+     "bambini": 5087
+    },
+    {
+     "lga": "Madobi",
+     "state": "Kano",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.0,
+     "bambini": 5013
+    },
+    {
+     "lga": "Gwaram",
+     "state": "Jigawa",
+     "intervento": "Trasferimenti monetari condizionati",
+     "costo_mln": 2.68,
+     "bambini": 4821
+    },
+    {
+     "lga": "Kagarko",
+     "state": "Kaduna",
+     "intervento": "Trasferimenti monetari condizionati",
+     "costo_mln": 1.88,
+     "bambini": 4754
+    },
+    {
+     "lga": "Tsafe",
+     "state": "Zamfara",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.26,
+     "bambini": 4738
+    },
+    {
+     "lga": "Gumel",
+     "state": "Jigawa",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.08,
+     "bambini": 4704
+    },
+    {
+     "lga": "Ingawa",
+     "state": "Katsina",
+     "intervento": "Servizi igienici femminili separati + acqua",
+     "costo_mln": 1.83,
+     "bambini": 4678
+    },
+    {
+     "lga": "Rogo",
+     "state": "Kano",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.08,
+     "bambini": 4651
+    }
+   ]
+  },
+  "400": {
+   "budget_mln": 400,
+   "speso": 400.0,
+   "lga_coperte": 314,
+   "interventi": 541,
+   "bambini": 914777,
+   "costo_per_bambino": 437.3,
+   "sroi": 4.09,
+   "beneficio_mln": 1635.1,
+   "per_intervento": [
+    {
+     "id": "almajiri",
+     "nome": "Integrazione scuola coranica-curriculum formale",
+     "lga": 209,
+     "costo_mln": 113.41,
+     "bambini": 367907
+    },
+    {
+     "id": "wash",
+     "nome": "Servizi igienici femminili separati + acqua",
+     "lga": 150,
+     "costo_mln": 97.83,
+     "bambini": 208807
+    },
+    {
+     "id": "alfabet",
+     "nome": "Alfabetizzazione femminile adulta e mobilitazione comunitaria",
+     "lga": 110,
+     "costo_mln": 78.21,
+     "bambini": 147981
+    },
+    {
+     "id": "cct",
+     "nome": "Trasferimenti monetari condizionati",
+     "lga": 45,
+     "costo_mln": 76.42,
+     "bambini": 124748
+    },
+    {
+     "id": "trasporto",
+     "nome": "Trasporto scolastico e aule satellite",
+     "lga": 23,
+     "costo_mln": 28.97,
+     "bambini": 54834
+    },
+    {
+     "id": "feeding",
+     "nome": "Programma di refezione scolastica",
+     "lga": 3,
+     "costo_mln": 4.47,
+     "bambini": 8959
+    },
+    {
+     "id": "docenti",
+     "nome": "Reclutamento e formazione docenti",
+     "lga": 1,
+     "costo_mln": 0.69,
+     "bambini": 1542
+    }
+   ],
+   "per_zona": [
+    {
+     "zona": "North Central",
+     "lga": 42,
+     "costo_mln": 36.61,
+     "bambini": 90959
+    },
+    {
+     "zona": "North East",
+     "lga": 92,
+     "costo_mln": 107.32,
+     "bambini": 239435
+    },
+    {
+     "zona": "North West",
+     "lga": 180,
+     "costo_mln": 256.07,
+     "bambini": 584383
+    }
+   ],
+   "top_lga": [
+    {
+     "lga": "Miga",
+     "state": "Jigawa",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 2.52,
+     "bambini": 12509
+    },
+    {
+     "lga": "Bungudu",
+     "state": "Zamfara",
+     "intervento": "Trasferimenti monetari condizionati",
+     "costo_mln": 3.81,
+     "bambini": 8691
+    },
+    {
+     "lga": "Miga",
+     "state": "Jigawa",
+     "intervento": "Trasferimenti monetari condizionati",
+     "costo_mln": 7.15,
+     "bambini": 7710
+    },
+    {
+     "lga": "Ibi",
+     "state": "Taraba",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 2.03,
+     "bambini": 7556
+    },
+    {
+     "lga": "Ingawa",
+     "state": "Katsina",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.47,
+     "bambini": 6610
+    },
+    {
+     "lga": "Keffi",
+     "state": "Nasarawa",
+     "intervento": "Alfabetizzazione femminile adulta e mobilitazione comunitaria",
+     "costo_mln": 2.49,
+     "bambini": 6014
+    },
+    {
+     "lga": "Kibiya",
+     "state": "Kano",
+     "intervento": "Trasferimenti monetari condizionati",
+     "costo_mln": 2.28,
+     "bambini": 5905
+    },
+    {
+     "lga": "Yabo",
+     "state": "Sokoto",
+     "intervento": "Trasporto scolastico e aule satellite",
+     "costo_mln": 2.76,
+     "bambini": 5817
+    },
+    {
+     "lga": "Gulani",
+     "state": "Yobe",
+     "intervento": "Trasferimenti monetari condizionati",
+     "costo_mln": 2.49,
+     "bambini": 5523
+    },
+    {
+     "lga": "Isin",
+     "state": "Kwara",
+     "intervento": "Trasporto scolastico e aule satellite",
+     "costo_mln": 2.55,
+     "bambini": 5490
+    },
+    {
+     "lga": "Miga",
+     "state": "Jigawa",
+     "intervento": "Servizi igienici femminili separati + acqua",
+     "costo_mln": 3.16,
+     "bambini": 5451
+    },
+    {
+     "lga": "Sule Tankarkar",
+     "state": "Jigawa",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.33,
+     "bambini": 5241
+    },
+    {
+     "lga": "Albasu",
+     "state": "Kano",
+     "intervento": "Trasferimenti monetari condizionati",
+     "costo_mln": 1.88,
+     "bambini": 5096
+    },
+    {
+     "lga": "Maradun",
+     "state": "Zamfara",
+     "intervento": "Servizi igienici femminili separati + acqua",
+     "costo_mln": 1.98,
+     "bambini": 5087
+    },
+    {
+     "lga": "Zuru",
+     "state": "Kebbi",
+     "intervento": "Trasferimenti monetari condizionati",
+     "costo_mln": 2.4,
+     "bambini": 5048
+    }
+   ]
+  },
+  "800": {
+   "budget_mln": 800,
+   "speso": 800.0,
+   "lga_coperte": 369,
+   "interventi": 978,
+   "bambini": 1361542,
+   "costo_per_bambino": 587.6,
+   "sroi": 3.04,
+   "beneficio_mln": 2433.6,
+   "per_intervento": [
+    {
+     "id": "almajiri",
+     "nome": "Integrazione scuola coranica-curriculum formale",
+     "lga": 246,
+     "costo_mln": 132.02,
+     "bambini": 390469
+    },
+    {
+     "id": "wash",
+     "nome": "Servizi igienici femminili separati + acqua",
+     "lga": 261,
+     "costo_mln": 171.72,
+     "bambini": 295198
+    },
+    {
+     "id": "cct",
+     "nome": "Trasferimenti monetari condizionati",
+     "lga": 137,
+     "costo_mln": 207.75,
+     "bambini": 267751
+    },
+    {
+     "id": "alfabet",
+     "nome": "Alfabetizzazione femminile adulta e mobilitazione comunitaria",
+     "lga": 187,
+     "costo_mln": 131.47,
+     "bambini": 209450
+    },
+    {
+     "id": "trasporto",
+     "nome": "Trasporto scolastico e aule satellite",
+     "lga": 74,
+     "costo_mln": 85.27,
+     "bambini": 116775
+    },
+    {
+     "id": "feeding",
+     "nome": "Programma di refezione scolastica",
+     "lga": 46,
+     "costo_mln": 45.14,
+     "bambini": 50855
+    },
+    {
+     "id": "resilienti",
+     "nome": "Scuole mobili e resilienti",
+     "lga": 9,
+     "costo_mln": 11.87,
+     "bambini": 15533
+    },
+    {
+     "id": "docenti",
+     "nome": "Reclutamento e formazione docenti",
+     "lga": 18,
+     "costo_mln": 14.75,
+     "bambini": 15511
+    }
+   ],
+   "per_zona": [
+    {
+     "zona": "North Central",
+     "lga": 71,
+     "costo_mln": 100.05,
+     "bambini": 177018
+    },
+    {
+     "zona": "North East",
+     "lga": 112,
+     "costo_mln": 257.4,
+     "bambini": 405929
+    },
+    {
+     "zona": "North West",
+     "lga": 186,
+     "costo_mln": 442.55,
+     "bambini": 778596
+    }
+   ],
+   "top_lga": [
+    {
+     "lga": "Miga",
+     "state": "Jigawa",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 2.52,
+     "bambini": 12509
+    },
+    {
+     "lga": "Bungudu",
+     "state": "Zamfara",
+     "intervento": "Trasferimenti monetari condizionati",
+     "costo_mln": 3.81,
+     "bambini": 8691
+    },
+    {
+     "lga": "Miga",
+     "state": "Jigawa",
+     "intervento": "Trasferimenti monetari condizionati",
+     "costo_mln": 7.15,
+     "bambini": 7710
+    },
+    {
+     "lga": "Ibi",
+     "state": "Taraba",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 2.03,
+     "bambini": 7556
+    },
+    {
+     "lga": "Ibi",
+     "state": "Taraba",
+     "intervento": "Trasferimenti monetari condizionati",
+     "costo_mln": 5.75,
+     "bambini": 7482
+    },
+    {
+     "lga": "Ingawa",
+     "state": "Katsina",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.47,
+     "bambini": 6610
+    },
+    {
+     "lga": "Keffi",
+     "state": "Nasarawa",
+     "intervento": "Alfabetizzazione femminile adulta e mobilitazione comunitaria",
+     "costo_mln": 2.49,
+     "bambini": 6014
+    },
+    {
+     "lga": "Kibiya",
+     "state": "Kano",
+     "intervento": "Trasferimenti monetari condizionati",
+     "costo_mln": 2.28,
+     "bambini": 5905
+    },
+    {
+     "lga": "Yabo",
+     "state": "Sokoto",
+     "intervento": "Trasporto scolastico e aule satellite",
+     "costo_mln": 2.76,
+     "bambini": 5817
+    },
+    {
+     "lga": "Gulani",
+     "state": "Yobe",
+     "intervento": "Trasferimenti monetari condizionati",
+     "costo_mln": 2.49,
+     "bambini": 5523
+    },
+    {
+     "lga": "Isin",
+     "state": "Kwara",
+     "intervento": "Trasporto scolastico e aule satellite",
+     "costo_mln": 2.55,
+     "bambini": 5490
+    },
+    {
+     "lga": "Miga",
+     "state": "Jigawa",
+     "intervento": "Servizi igienici femminili separati + acqua",
+     "costo_mln": 3.16,
+     "bambini": 5451
+    },
+    {
+     "lga": "Sule Tankarkar",
+     "state": "Jigawa",
+     "intervento": "Integrazione scuola coranica-curriculum formale",
+     "costo_mln": 1.33,
+     "bambini": 5241
+    },
+    {
+     "lga": "Albasu",
+     "state": "Kano",
+     "intervento": "Trasferimenti monetari condizionati",
+     "costo_mln": 1.88,
+     "bambini": 5096
+    },
+    {
+     "lga": "Maradun",
+     "state": "Zamfara",
+     "intervento": "Servizi igienici femminili separati + acqua",
+     "costo_mln": 1.98,
+     "bambini": 5087
+    }
+   ]
+  }
+ },
+ "catalogo": [
+  {
+   "id": "cct",
+   "nome": "Trasferimenti monetari condizionati",
+   "costo": 34.0,
+   "eff_max": 9.5,
+   "desc": "Sussidio alle famiglie condizionato alla frequenza scolastica."
+  },
+  {
+   "id": "feeding",
+   "nome": "Programma di refezione scolastica",
+   "costo": 21.0,
+   "eff_max": 5.5,
+   "desc": "Un pasto al giorno a scuola: riduce il costo-opportunità della frequenza."
+  },
+  {
+   "id": "wash",
+   "nome": "Servizi igienici femminili separati + acqua",
+   "costo": 15.0,
+   "eff_max": 6.0,
+   "desc": "Blocchi sanitari separati per genere e punto acqua nelle scuole."
+  },
+  {
+   "id": "trasporto",
+   "nome": "Trasporto scolastico e aule satellite",
+   "costo": 27.0,
+   "eff_max": 8.0,
+   "desc": "Navette e aule decentrate per ridurre la distanza casa-scuola."
+  },
+  {
+   "id": "docenti",
+   "nome": "Reclutamento e formazione docenti",
+   "costo": 19.0,
+   "eff_max": 4.5,
+   "desc": "Nuovi insegnanti dove le classi sono sovraffollate."
+  },
+  {
+   "id": "almajiri",
+   "nome": "Integrazione scuola coranica-curriculum formale",
+   "costo": 12.0,
+   "eff_max": 7.0,
+   "desc": "Inserimento di matematica e alfabetizzazione nelle scuole coraniche."
+  },
+  {
+   "id": "resilienti",
+   "nome": "Scuole mobili e resilienti",
+   "costo": 41.0,
+   "eff_max": 7.5,
+   "desc": "Strutture temporanee/mobili per aree di conflitto o soggette a shock climatici."
+  },
+  {
+   "id": "alfabet",
+   "nome": "Alfabetizzazione femminile adulta e mobilitazione comunitaria",
+   "costo": 16.0,
+   "eff_max": 5.0,
+   "desc": "Corsi per madri e sensibilizzazione: leva più forte sull'iscrizione delle bambine."
+  }
+ ],
+ "ipotesi": {
+  "pil_procapite_usd": 1620.0,
+  "rendimento_annuo": 0.095,
+  "anni_lavorativi": 40,
+  "tasso_sconto": 0.05
+ }
+}
