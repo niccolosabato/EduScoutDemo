@@ -4,7 +4,7 @@ Simulazione funzionante della piattaforma descritta nella presentazione del prog
 una pipeline data-driven che **prevede** dove i bambini usciranno dal sistema scolastico in
 Nigeria, **spiega** perché, e **ottimizza** l'allocazione di un budget limitato.
 
-Apri **`output/EduScout_demo.html`** nel browser: è un file unico, senza dipendenze,
+Apri **`EduScout_demo.html`** nel browser: è un file unico, senza dipendenze,
 senza server, funziona anche offline.
 
 ---
@@ -13,7 +13,7 @@ senza server, funziona anche offline.
 
 | | |
 |---|---|
-| **Dashboard** | `output/EduScout_demo.html` — 6 schede: panoramica, mappa delle 774 LGA, scheda LGA, modello ML, allocazione budget, dati e metodo |
+| **Dashboard** | `EduScout_demo.html` — 6 schede: panoramica, mappa delle 774 LGA, scheda LGA, modello ML, allocazione budget, dati e metodo |
 | **Pipeline** | `src/01…05` — cinque script Python riproducibili |
 | **Dati generati** | `data/` — panel, previsioni, valori SHAP, metriche, scenari |
 
