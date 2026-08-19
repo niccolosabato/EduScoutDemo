@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="it" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>EduScout — Piattaforma predittiva per l'accesso all'istruzione · Nigeria</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="topin">
+    <div class="brand"><b>EduScout</b><span>Nigeria · ciclo 2026</span></div>
+    <span class="demo-chip">Demo</span>
+    <nav class="tabs" role="tablist">
+      <button class="tab" role="tab" data-view="panoramica" aria-selected="true">Panoramica</button>
+      <button class="tab" role="tab" data-view="mappa" aria-selected="false">Mappa del rischio</button>
+      <button class="tab" role="tab" data-view="lga" aria-selected="false">Scheda LGA</button>
+      <button class="tab" role="tab" data-view="modello" aria-selected="false">Modello ML</button>
+      <button class="tab" role="tab" data-view="budget" aria-selected="false">Allocazione budget</button>
+      <button class="tab" role="tab" data-view="dati" aria-selected="false">Dati e metodo</button>
+    </nav>
+    <button class="icobtn" id="theme" title="Cambia tema" aria-label="Cambia tema chiaro/scuro">◐</button>
+  </div>
+</header>
+<div class="wrap">
+
+<!-- ============================== PANORAMICA ============================== -->
+<section id="v-panoramica">
+  <div class="hero">
+    <h1>Dove i bambini usciranno dal sistema scolastico nel 2026</h1>
+    <p>EduScout stima, per ognuna delle <b>774 Local Government Area</b> della Nigeria, quanti bambini
+    fra 6 e 11 anni resteranno fuori dalla scuola l'anno prossimo, spiega <b>perché</b> e calcola dove
+    conviene spendere il prossimo dollaro. Costruire scuole non basta: serve sapere dove.</p>
+    <div class="banner" style="margin-top:16px">
+      <span aria-hidden="true">ℹ️</span>
+      <div><b>Questa è una demo.</b> La geografia (774 LGA, 37 stati) e gli indicatori nazionali e di zona
+      sono reali e referenziati. I valori a livello di singola LGA sono <b>simulati</b> e calibrati sulle
+      medie pubblicate: servono a mostrare il funzionamento della piattaforma, non a descrivere una
+      specifica LGA. Metodo e limiti nella scheda <a href="#" data-goto="dati">Dati e metodo</a>.</div>
+    </div>
+  </div>
+
+  <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(190px,1fr));margin-bottom:14px" id="kpi"></div>
+
+  <div class="grid" style="grid-template-columns:1.35fr 1fr">
+    <div class="card">
+      <h3>Bambini fuori dalla scuola per zona geopolitica</h3>
+      <div class="sub">Tasso medio ponderato sulla popolazione 6-11 anni · previsione 2026</div>
+      <div id="c-zone"></div>
+    </div>
+    <div class="card">
+      <h3>Composizione del rischio</h3>
+      <div class="sub">LGA per fascia di punteggio · un intervento per ogni LGA in fascia alta</div>
+      <div id="c-fasce"></div>
+      <div class="legend" style="margin-top:14px" id="lg-fasce"></div>
+    </div>
+  </div>
+
+  <div class="grid" style="grid-template-columns:1fr 1fr;margin-top:14px">
+    <div class="card">
+      <h3>Andamento storico e previsione</h3>
+      <div class="sub">Tasso di bambini 6-11 fuori dalla scuola, media nazionale ponderata</div>
+      <div id="c-trend"></div>
+    </div>
+    <div class="card">
+      <h3>Driver principale del rischio</h3>
+      <div class="sub">Fattore con il contributo SHAP più alto in ciascuna LGA · 774 LGA</div>
+      <div id="c-topdriver"></div>
+    </div>
+  </div>
+
+  <div class="card" style="margin-top:14px">
+    <h3>Le 12 LGA con il punteggio di rischio più alto</h3>
+    <div class="sub">Punteggio 0-100 previsto per il 2026 · clicca una riga per aprire la scheda</div>
+    <div style="overflow:auto"><table id="t-top"></table></div>
+  </div>
+</section>
+
+<!-- ============================== MAPPA ============================== -->
+<section id="v-mappa" class="hidden">
+  <div class="hero"><h1>Mappa del rischio di esclusione educativa</h1>
+    <p>Ogni poligono è una delle 774 LGA reali della Nigeria. Il colore indica il punteggio di rischio
+    previsto per il 2026; la dimensione del problema (numero di bambini) è mostrata nella tabella e nel
+    riquadro di dettaglio.</p></div>
+  <div class="grid" style="grid-template-columns:1.6fr 1fr">
+    <div class="card">
+      <div class="filters">
+        <select id="m-zone"></select>
+        <select id="m-state"></select>
+        <select id="m-metric">
+          <option value="score">Punteggio di rischio 0-100</option>
+          <option value="pre">Tasso fuori-scuola previsto 2026 (%)</option>
+          <option value="kids">Bambini fuori dalla scuola (n.)</option>
+          <option value="gap">Divario di genere (punti %)</option>
+        </select>
+        <span style="margin-left:auto;font-size:12px;color:var(--muted)" id="m-count"></span>
+      </div>
+      <div id="c-map"></div>
+      <div id="lg-map" class="legend" style="margin-top:10px"></div>
+    </div>
+    <div class="card" id="m-panel"></div>
+  </div>
+  <div class="card" style="margin-top:14px">
+    <h3>Tutte le LGA</h3>
+    <div class="sub">Vista tabellare degli stessi dati della mappa — ordinabile, per lettura senza colore</div>
+    <div class="filters"><input type="search" id="m-search" placeholder="Cerca una LGA o uno stato…" style="min-width:240px"></div>
+    <div style="max-height:420px;overflow:auto"><table id="t-map"></table></div>
+  </div>
+</section>
+
+<!-- ============================== SCHEDA LGA ============================== -->
+<section id="v-lga" class="hidden">
+  <div class="hero"><h1>Scheda LGA</h1>
+    <p>Perché questa micro-area è a rischio, e quale intervento ha il rapporto costo/beneficio migliore.
+    L'attribuzione usa i valori SHAP del modello strutturale, espressi in punti percentuali di tasso
+    fuori-scuola.</p></div>
+  <div class="filters">
+    <select id="l-pick" style="min-width:300px"></select>
+    <span style="font-size:12px;color:var(--muted)">774 LGA disponibili</span>
+  </div>
+  <div id="l-body"></div>
+</section>
+
+<!-- ============================== MODELLO ============================== -->
+<section id="v-modello" class="hidden">
+  <div class="hero"><h1>Il modello di Machine Learning</h1>
+    <p>Due stadi: una <b>regressione</b> che stima il tasso di bambini fuori dalla scuola dell'anno
+    successivo e produce il punteggio 0-100, e una <b>classificazione</b> in tre fasce che traduce il
+    punteggio in una decisione di budget. Validazione temporale: il modello è addestrato fino al 2023 e
+    valutato su un anno che non ha mai visto.</p></div>
+  <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(180px,1fr));margin-bottom:14px" id="m-kpi"></div>
+
+  <div class="grid" style="grid-template-columns:1fr 1fr">
+    <div class="card">
+      <h3>Previsto contro reale</h3>
+      <div class="sub">774 LGA, holdout temporale · la diagonale è la previsione perfetta</div>
+      <div id="c-scatter"></div>
+    </div>
+    <div class="card">
+      <h3>Confronto tra modelli</h3>
+      <div class="sub">R² sullo stesso holdout temporale · il modello in produzione è evidenziato</div>
+      <div id="c-bench"></div>
+    </div>
+  </div>
+
+  <div class="grid" style="grid-template-columns:1fr 1fr;margin-top:14px">
+    <div class="card">
+      <h3>Cosa spiega il rischio</h3>
+      <div class="sub">Permutation importance a blocchi tematici, modello strutturale</div>
+      <div id="c-gruppi"></div>
+      <div class="note">La permutazione a blocchi permuta insieme le variabili correlate: evita che il
+      modello recuperi l'informazione da una variabile "gemella" e sovrastimi l'irrilevanza di un fattore.</div>
+    </div>
+    <div class="card">
+      <h3>Driver singoli</h3>
+      <div class="sub">Permutation importance per variabile, modello senza memoria storica</div>
+      <div id="c-imp"></div>
+    </div>
+  </div>
+
+  <div class="grid" style="grid-template-columns:1fr 1.25fr;margin-top:14px">
+    <div class="card">
+      <h3>Matrice di confusione</h3>
+      <div class="sub">Righe: fascia reale · colonne: fascia prevista · 774 LGA</div>
+      <div id="c-cm"></div>
+    </div>
+    <div class="card">
+      <h3>Perché la soglia non è 70</h3>
+      <div class="sub">Un falso negativo costa più di un falso positivo: la soglia operativa massimizza
+      il recall sulla fascia alta sotto il vincolo precision ≥ 0,80</div>
+      <div id="c-soglia"></div>
+    </div>
+  </div>
+
+  <div class="card" style="margin-top:14px">
+    <h3>Metriche per classe</h3>
+    <div class="sub">Precision, recall e F1 sulla soglia operativa calibrata</div>
+    <div style="overflow:auto"><table id="t-clf"></table></div>
+  </div>
+</section>
+
+<!-- ============================== BUDGET ============================== -->
+<section id="v-budget" class="hidden">
+  <div class="hero"><h1>Dove mettere il prossimo dollaro</h1>
+    <p>Dato un budget, l'ottimizzatore sceglie quali interventi attivare in quali LGA per massimizzare
+    il numero di bambini riportati a scuola. È un problema di knapsack multi-scelta con rendimenti
+    decrescenti, risolto con un greedy su rapporto beneficio/costo e una passata di scambio locale.</p></div>
+  <div class="card" style="margin-bottom:14px">
+    <div class="filters">
+      <label for="b-budget" style="font-weight:600">Budget annuo</label>
+      <input type="range" id="b-budget" min="0" max="4" step="1" value="2" style="flex:1;min-width:200px">
+      <output id="b-out" style="font-weight:600;font-variant-numeric:tabular-nums;min-width:90px"></output>
+    </div>
+    <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(170px,1fr))" id="b-kpi"></div>
+  </div>
+  <div class="grid" style="grid-template-columns:1fr 1fr">
+    <div class="card">
+      <h3>Bambini raggiunti per tipo di intervento</h3>
+      <div class="sub">Ripartizione del budget selezionato</div>
+      <div id="c-int"></div>
+    </div>
+    <div class="card">
+      <h3>Curva di rendimento del budget</h3>
+      <div class="sub">Il costo per bambino sale da 238 a 588 $: ogni dollaro aggiuntivo rende meno
+      del precedente, perché le LGA più convenienti vengono servite per prime</div>
+      <div id="c-curve"></div>
+    </div>
+  </div>
+  <div class="card" style="margin-top:14px">
+    <h3>Piano operativo — prime 15 voci</h3>
+    <div class="sub">Coppie LGA × intervento selezionate dall'ottimizzatore, ordinate per impatto</div>
+    <div style="overflow:auto"><table id="t-plan"></table></div>
+  </div>
+  <div class="card" style="margin-top:14px">
+    <h3>Catalogo degli interventi</h3>
+    <div class="sub">Costo unitario per bambino in età scolare e riduzione massima del tasso fuori-scuola</div>
+    <div style="overflow:auto"><table id="t-cat"></table></div>
+  </div>
+</section>
+
+<!-- ============================== DATI E METODO ============================== -->
+<section id="v-dati" class="hidden">
+  <div class="hero"><h1>Dati, metodo e limiti</h1>
+    <p>Tutto quello che serve per capire cosa in questa demo è reale, cosa è simulato e come
+    riprodurre i risultati.</p></div>
+  <div id="d-body"></div>
+</section>
+
+</div>
+<div class="tt" id="tt" role="tooltip"></div>
+<script src="js/data.js"></script>
+<script src="js/core.js"></script>
+<script src="js/view-panoramica.js"></script>
+<script src="js/view-mappa.js"></script>
+<script src="js/view-lga.js"></script>
+<script src="js/view-modello.js"></script>
+<script src="js/view-budget.js"></script>
+<script src="js/view-dati.js"></script>
+<script src="js/main.js"></script>
+</body></html>

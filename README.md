@@ -4,8 +4,8 @@ Simulazione funzionante della piattaforma descritta nella presentazione del prog
 una pipeline data-driven che **prevede** dove i bambini usciranno dal sistema scolastico in
 Nigeria, **spiega** perché, e **ottimizza** l'allocazione di un budget limitato.
 
-Apri **`EduScout_demo.html`** nel browser: è un file unico, senza dipendenze,
-senza server, funziona anche offline.
+Apri **`index.html`** nel browser: nessuna dipendenza, nessun server, funziona
+anche offline (doppio click sul file).
 
 ---
 
@@ -13,9 +13,25 @@ senza server, funziona anche offline.
 
 | | |
 |---|---|
-| **Dashboard** | `EduScout_demo.html` — 6 schede: panoramica, mappa delle 774 LGA, scheda LGA, modello ML, allocazione budget, dati e metodo |
+| **Dashboard** | `index.html` + `css/` + `js/` — 6 schede: panoramica, mappa delle 774 LGA, scheda LGA, modello ML, allocazione budget, dati e metodo |
 | **Pipeline** | `src/01…05` — cinque script Python riproducibili |
 | **Dati generati** | `data/` — panel, previsioni, valori SHAP, metriche, scenari |
+
+Struttura della dashboard:
+
+```
+index.html                  markup delle 6 schede
+css/style.css                tutti gli stili
+js/data.js                    dati (774 LGA, storico, metriche, scenari)
+js/core.js                    helper condivisi e primitive dei grafici
+js/view-panoramica.js
+js/view-mappa.js
+js/view-lga.js
+js/view-modello.js
+js/view-budget.js
+js/view-dati.js
+js/main.js                    navigazione a schede e bootstrap
+```
 
 ## Risultati del modello
 
