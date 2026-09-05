@@ -1,4 +1,4 @@
-# EduScout — piattaforma demo
+# EduScout -  piattaforma demo
 
 Simulazione funzionante della piattaforma descritta nella presentazione del progetto:
 una pipeline data-driven che **prevede** dove i bambini usciranno dal sistema scolastico in
